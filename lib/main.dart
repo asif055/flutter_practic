@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Whatsapp UI',
       theme: ThemeData(
-        primarySwatch: Colors.teal,
+        primarySwatch: Colors.teal, // this is command
       ),
       home: const HomeScreen(),
     );
