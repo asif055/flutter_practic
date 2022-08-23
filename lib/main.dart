@@ -15,11 +15,10 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.teal,
       ),
-<<<<<<< HEAD
+
       // home: const HomeScreen(),
-=======
+
       home: const HomeScreen(),
->>>>>>> feature1
     );
   }
 }
